@@ -1,0 +1,9 @@
+.col-md-3 {
+    height: 50vh;
+}
+
+@media screen and (max-width: 657px) {
+    nav {
+      background-color: blue;
+    }
+  }
